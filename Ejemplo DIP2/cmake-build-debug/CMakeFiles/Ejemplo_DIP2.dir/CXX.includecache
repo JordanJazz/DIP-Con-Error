@@ -1,0 +1,52 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.cpp
+Hospital.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.h
+iostream
+-
+IVaccination.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+iostream
+-
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.cpp
+Johnson.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.h
+iostream
+-
+IVaccination.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.cpp
+Moderna.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.h
+iostream
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/iostream
+IVaccination.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.cpp
+PfizerBioNTech.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.h
+
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.h
+iostream
+-
+IVaccination.h
+C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+
