@@ -1,7 +1,5 @@
 #include <iostream>
-#include "PfizerBioNTech.h"
-#include "Moderna.h"
-#include "Johnson.h"
+#include "Vaccine.h"
 #include "Hospital.h"
 #include <vector>
 
@@ -11,10 +9,8 @@ int main() {//h
     cout<<endl;
     cout<<"Bienvenido al Hospital San Juan de Dios\n";
 
-    Hospital hospital("San Juan de Dios");
-    IVaccination* _vacunaModerna= new Moderna();
-    IVaccination* _vacunaJohnsons= new Johnson() ;
-    IVaccination* _vacunaPfizer= new PfizerBioNTech();
+    Vaccine vaccine1;
+    Hospital hospital("San Juan de Dios",vaccine1);
 
     cout<<"===========Proceso de Vacunacion========\n";
     cout<<"Digite la vacuna que de aplicarse\n";
@@ -23,15 +19,15 @@ int main() {//h
     cin>>clave;
     switch (clave) {
         case 1:
-        cout<<hospital.vaccinate(_vacunaPfizer)<<endl;
+        cout<<hospital.vaccinateUsingPfizer()<<endl;
 
             break;
         case 2:
-            cout<<hospital.vaccinate(_vacunaJohnsons)<<endl;
+            cout<<hospital.vaccinateUsingJohnson()<<endl;
 
             break;
         case 3:
-            cout<<hospital.vaccinate(_vacunaModerna)<<endl;
+            cout<<hospital.vaccinateUsingModerna()<<endl;
 
             break;
         default:
@@ -39,8 +35,5 @@ int main() {//h
 
     }
 
-    delete _vacunaJohnsons;
-    delete _vacunaModerna;
-    delete _vacunaPfizer;
     return 0;
 }

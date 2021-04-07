@@ -129,17 +129,17 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named Ejemplo_DIP2
+# Target rules for targets named Dip_Con_Error
 
 # Build rule for target.
-Ejemplo_DIP2: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Ejemplo_DIP2
-.PHONY : Ejemplo_DIP2
+Dip_Con_Error: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 Dip_Con_Error
+.PHONY : Dip_Con_Error
 
 # fast build rule for target.
-Ejemplo_DIP2/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/build
-.PHONY : Ejemplo_DIP2/fast
+Dip_Con_Error/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/build
+.PHONY : Dip_Con_Error/fast
 
 Hospital.obj: Hospital.cpp.obj
 
@@ -147,7 +147,7 @@ Hospital.obj: Hospital.cpp.obj
 
 # target to build an object file
 Hospital.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Hospital.cpp.obj
 .PHONY : Hospital.cpp.obj
 
 Hospital.i: Hospital.cpp.i
@@ -156,7 +156,7 @@ Hospital.i: Hospital.cpp.i
 
 # target to preprocess a source file
 Hospital.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Hospital.cpp.i
 .PHONY : Hospital.cpp.i
 
 Hospital.s: Hospital.cpp.s
@@ -165,89 +165,35 @@ Hospital.s: Hospital.cpp.s
 
 # target to generate assembly for a file
 Hospital.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Hospital.cpp.s
 .PHONY : Hospital.cpp.s
 
-Johnson.obj: Johnson.cpp.obj
+Vaccine.obj: Vaccine.cpp.obj
 
-.PHONY : Johnson.obj
-
-# target to build an object file
-Johnson.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj
-.PHONY : Johnson.cpp.obj
-
-Johnson.i: Johnson.cpp.i
-
-.PHONY : Johnson.i
-
-# target to preprocess a source file
-Johnson.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.i
-.PHONY : Johnson.cpp.i
-
-Johnson.s: Johnson.cpp.s
-
-.PHONY : Johnson.s
-
-# target to generate assembly for a file
-Johnson.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.s
-.PHONY : Johnson.cpp.s
-
-Moderna.obj: Moderna.cpp.obj
-
-.PHONY : Moderna.obj
+.PHONY : Vaccine.obj
 
 # target to build an object file
-Moderna.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj
-.PHONY : Moderna.cpp.obj
+Vaccine.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Vaccine.cpp.obj
+.PHONY : Vaccine.cpp.obj
 
-Moderna.i: Moderna.cpp.i
+Vaccine.i: Vaccine.cpp.i
 
-.PHONY : Moderna.i
-
-# target to preprocess a source file
-Moderna.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.i
-.PHONY : Moderna.cpp.i
-
-Moderna.s: Moderna.cpp.s
-
-.PHONY : Moderna.s
-
-# target to generate assembly for a file
-Moderna.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.s
-.PHONY : Moderna.cpp.s
-
-PfizerBioNTech.obj: PfizerBioNTech.cpp.obj
-
-.PHONY : PfizerBioNTech.obj
-
-# target to build an object file
-PfizerBioNTech.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj
-.PHONY : PfizerBioNTech.cpp.obj
-
-PfizerBioNTech.i: PfizerBioNTech.cpp.i
-
-.PHONY : PfizerBioNTech.i
+.PHONY : Vaccine.i
 
 # target to preprocess a source file
-PfizerBioNTech.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.i
-.PHONY : PfizerBioNTech.cpp.i
+Vaccine.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Vaccine.cpp.i
+.PHONY : Vaccine.cpp.i
 
-PfizerBioNTech.s: PfizerBioNTech.cpp.s
+Vaccine.s: Vaccine.cpp.s
 
-.PHONY : PfizerBioNTech.s
+.PHONY : Vaccine.s
 
 # target to generate assembly for a file
-PfizerBioNTech.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.s
-.PHONY : PfizerBioNTech.cpp.s
+Vaccine.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/Vaccine.cpp.s
+.PHONY : Vaccine.cpp.s
 
 main.obj: main.cpp.obj
 
@@ -255,7 +201,7 @@ main.obj: main.cpp.obj
 
 # target to build an object file
 main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/main.cpp.obj
 .PHONY : main.cpp.obj
 
 main.i: main.cpp.i
@@ -264,7 +210,7 @@ main.i: main.cpp.i
 
 # target to preprocess a source file
 main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/main.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/main.cpp.i
 .PHONY : main.cpp.i
 
 main.s: main.cpp.s
@@ -273,7 +219,7 @@ main.s: main.cpp.s
 
 # target to generate assembly for a file
 main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Ejemplo_DIP2.dir\build.make CMakeFiles/Ejemplo_DIP2.dir/main.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Dip_Con_Error.dir\build.make CMakeFiles/Dip_Con_Error.dir/main.cpp.s
 .PHONY : main.cpp.s
 
 # Help Target
@@ -284,19 +230,13 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
-	@echo ... Ejemplo_DIP2
+	@echo ... Dip_Con_Error
 	@echo ... Hospital.obj
 	@echo ... Hospital.i
 	@echo ... Hospital.s
-	@echo ... Johnson.obj
-	@echo ... Johnson.i
-	@echo ... Johnson.s
-	@echo ... Moderna.obj
-	@echo ... Moderna.i
-	@echo ... Moderna.s
-	@echo ... PfizerBioNTech.obj
-	@echo ... PfizerBioNTech.i
-	@echo ... PfizerBioNTech.s
+	@echo ... Vaccine.obj
+	@echo ... Vaccine.i
+	@echo ... Vaccine.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

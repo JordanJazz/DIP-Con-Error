@@ -3,24 +3,12 @@
 
 CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj: ../Hospital.cpp
 CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj: ../Hospital.h
-CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj: ../IVaccination.h
+CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj: ../Vaccine.h
 
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj: ../IVaccination.h
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj: ../Johnson.cpp
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj: ../Johnson.h
-
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj: ../IVaccination.h
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj: ../Moderna.cpp
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj: ../Moderna.h
-
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj: ../IVaccination.h
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj: ../PfizerBioNTech.cpp
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj: ../PfizerBioNTech.h
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj: ../Vaccine.cpp
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj: ../Vaccine.h
 
 CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../Hospital.h
-CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../IVaccination.h
-CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../Johnson.h
-CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../Moderna.h
-CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../PfizerBioNTech.h
+CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../Vaccine.h
 CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj: ../main.cpp
 

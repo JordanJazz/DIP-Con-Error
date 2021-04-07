@@ -4,9 +4,14 @@
 
 #ifndef EJEMPLO_DIP2_VACCINE_H
 #define EJEMPLO_DIP2_VACCINE_H
+#include <iostream>
+using namespace std;
 
-
-class Vaccine {
+struct Vaccine {
+        Vaccine();
+        string applyModernaVaccine();
+        string applyJohnsosnsVaccine();
+        string applyPfizerVaccine();
 
 };
 

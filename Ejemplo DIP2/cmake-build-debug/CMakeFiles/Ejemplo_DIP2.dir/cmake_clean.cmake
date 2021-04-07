@@ -1,8 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj"
-  "CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj"
-  "CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj"
-  "CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj"
+  "CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj"
   "CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj"
   "Ejemplo_DIP2.exe"
   "Ejemplo_DIP2.exe.manifest"

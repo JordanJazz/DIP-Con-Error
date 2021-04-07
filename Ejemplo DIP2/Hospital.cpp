@@ -6,12 +6,9 @@
 Hospital::Hospital() {
     name = "";
 }
-Hospital::Hospital(string name) {
+Hospital::Hospital(string name,Vaccine vaccine1) {
     this->name = name;
-}
-
-string Hospital::vaccinate(IVaccination* iVaccination) {
-    return iVaccination->vaccineProcess();
+    this->vaccine = vaccine1;
 }
 
 const string &Hospital::getName() const {
@@ -25,3 +22,13 @@ void Hospital::setName(const string &name) {
 Hospital::~Hospital() {
 
 }
+string Hospital::vaccinateUsingModerna(){
+    return this->vaccine.applyModernaVaccine();
+}
+string Hospital::vaccinateUsingJohnson(){
+    return this->vaccine.applyJohnsosnsVaccine();
+}
+string Hospital::vaccinateUsingPfizer(){
+    return this->vaccine.applyPfizerVaccine();
+}
+

@@ -5,21 +5,24 @@
 #ifndef EJEMPLO_DIP2_HOSPITAL_H
 #define EJEMPLO_DIP2_HOSPITAL_H
 #include <iostream>
-#include "IVaccination.h"
-
+#include "Vaccine.h"
+using namespace std;
 class Hospital{
 
 public:
     Hospital();
-    Hospital(string);
+    Hospital(string,Vaccine);
     virtual ~Hospital();
     const string &getName() const;
     void setName(const string &name);
-    string vaccinate(IVaccination*);
+    string vaccinateUsingModerna();
+    string vaccinateUsingJohnson();
+    string vaccinateUsingPfizer();
+
 
 private:
 string name;
-
+Vaccine vaccine;
 
 };
 

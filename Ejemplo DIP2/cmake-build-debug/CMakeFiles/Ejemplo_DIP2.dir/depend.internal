@@ -4,23 +4,11 @@
 CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj
  C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.cpp
  C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.cpp
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.cpp
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.cpp
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h
+ C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Vaccine.h
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj
+ C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Vaccine.cpp
+ C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Vaccine.h
 CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj
  C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h
- C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h
+ C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Vaccine.h
  C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/main.cpp

@@ -101,66 +101,36 @@ CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.s"
 	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Hospital.cpp" -o CMakeFiles\Ejemplo_DIP2.dir\Hospital.cpp.s
 
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj: CMakeFiles/Ejemplo_DIP2.dir/flags.make
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj: ../Johnson.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejemplo_DIP2.dir\Johnson.cpp.obj -c "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Johnson.cpp"
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj: CMakeFiles/Ejemplo_DIP2.dir/flags.make
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj: ../Vaccine.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejemplo_DIP2.dir\Vaccine.cpp.obj -c "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Vaccine.cpp"
 
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.i"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Johnson.cpp" > CMakeFiles\Ejemplo_DIP2.dir\Johnson.cpp.i
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.i"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Vaccine.cpp" > CMakeFiles\Ejemplo_DIP2.dir\Vaccine.cpp.i
 
-CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.s"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Johnson.cpp" -o CMakeFiles\Ejemplo_DIP2.dir\Johnson.cpp.s
-
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj: CMakeFiles/Ejemplo_DIP2.dir/flags.make
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj: ../PfizerBioNTech.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejemplo_DIP2.dir\PfizerBioNTech.cpp.obj -c "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\PfizerBioNTech.cpp"
-
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.i"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\PfizerBioNTech.cpp" > CMakeFiles\Ejemplo_DIP2.dir\PfizerBioNTech.cpp.i
-
-CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.s"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\PfizerBioNTech.cpp" -o CMakeFiles\Ejemplo_DIP2.dir\PfizerBioNTech.cpp.s
-
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj: CMakeFiles/Ejemplo_DIP2.dir/flags.make
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj: ../Moderna.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Ejemplo_DIP2.dir\Moderna.cpp.obj -c "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Moderna.cpp"
-
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.i"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Moderna.cpp" > CMakeFiles\Ejemplo_DIP2.dir\Moderna.cpp.i
-
-CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.s"
-	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Moderna.cpp" -o CMakeFiles\Ejemplo_DIP2.dir\Moderna.cpp.s
+CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.s"
+	C:\PROGRA~1\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\Vaccine.cpp" -o CMakeFiles\Ejemplo_DIP2.dir\Vaccine.cpp.s
 
 # Object files for target Ejemplo_DIP2
 Ejemplo_DIP2_OBJECTS = \
 "CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj" \
 "CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj" \
-"CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj" \
-"CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj" \
-"CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj"
+"CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj"
 
 # External object files for target Ejemplo_DIP2
 Ejemplo_DIP2_EXTERNAL_OBJECTS =
 
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/main.cpp.obj
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/Hospital.cpp.obj
-Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/Johnson.cpp.obj
-Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/PfizerBioNTech.cpp.obj
-Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/Moderna.cpp.obj
+Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/Vaccine.cpp.obj
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/build.make
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/linklibs.rsp
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/objects1.rsp
 Ejemplo_DIP2.exe: CMakeFiles/Ejemplo_DIP2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable Ejemplo_DIP2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="C:\Users\Roni\CLionProjects\Dip-Con-Error\Ejemplo DIP2\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Ejemplo_DIP2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Ejemplo_DIP2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
