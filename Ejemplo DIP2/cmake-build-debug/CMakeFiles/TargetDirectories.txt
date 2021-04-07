@@ -1,3 +1,3 @@
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/CMakeFiles/Ejemplo_DIP2.dir
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/CMakeFiles/Ejemplo_DIP2.dir
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

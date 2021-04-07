@@ -6,47 +6,61 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.cpp
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.cpp
 Hospital.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h
 iostream
 -
 IVaccination.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
 iostream
 -
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.cpp
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.cpp
 Johnson.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h
 iostream
 -
 IVaccination.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.cpp
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.cpp
 Moderna.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h
 iostream
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/iostream
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/iostream
 IVaccination.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.cpp
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.cpp
 PfizerBioNTech.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h
 
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h
 iostream
 -
 IVaccination.h
-C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h
+
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/main.cpp
+iostream
+-
+PfizerBioNTech.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h
+Moderna.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h
+Johnson.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h
+Hospital.h
+C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h
+vector
+-
 

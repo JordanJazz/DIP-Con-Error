@@ -8,18 +8,18 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Ejemplo_DIP2">
-				<Option output="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Ejemplo_DIP2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug"/>
+				<Option output="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Ejemplo_DIP2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejemplo_DIP2"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejemplo_DIP2"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="Ejemplo_DIP2/fast">
-				<Option output="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Ejemplo_DIP2.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug"/>
+				<Option output="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Ejemplo_DIP2.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,64 +53,64 @@
 					<Add directory="C:/Program Files/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/../lib/gcc/x86_64-w64-mingw32/8.1.0/../../../../x86_64-w64-mingw32/include"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejemplo_DIP2/fast"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 Ejemplo_DIP2/fast"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug"/>
+				<Option working_dir="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="C:/PROGRA~1/MINGW-~1/X86_64~1.0-P/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/PROGRA~1/mingw-w64/x86_64-8.1.0-posix-seh-rt_v6-rev0/mingw64/bin/mingw32-make.exe -f &quot;C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.cpp">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.cpp">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Hospital.h">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Hospital.h">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/IVaccination.h">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/IVaccination.h">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.cpp">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.cpp">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Johnson.h">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Johnson.h">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.cpp">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.cpp">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/Moderna.h">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/Moderna.h">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.cpp">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.cpp">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/PfizerBioNTech.h">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/PfizerBioNTech.h">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/main.cpp">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/main.cpp">
 			<Option target="Ejemplo_DIP2"/>
 		</Unit>
-		<Unit filename="C:/Users/dell/Documents/GitHub/DIP-Alpha/Ejemplo DIP2/CMakeLists.txt">
+		<Unit filename="C:/Users/Roni/CLionProjects/Dip-Con-Error/Ejemplo DIP2/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>
